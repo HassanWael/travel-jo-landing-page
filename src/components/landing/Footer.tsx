@@ -11,7 +11,7 @@ const Footer = () => {
           <div className="space-y-4">
             <div className="flex items-center space-x-2">
               <div className="bg-white p-2 rounded-lg">
-                <MapPin className="h-6 w-6 text-primary" />
+                <img src="/traveljologo-transparent.png" alt="Travel Jo Logo" className="h-10 w-10" />
               </div>
               <span className="text-2xl font-bold">Travel Jo</span>
             </div>
